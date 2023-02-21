@@ -1,9 +1,17 @@
 
 
 ==============================  Fold
+Monday, February 20, 2023
+
+Done - 9.)  Into the Abyss with AC and DC
+
+eFold
+
+
+==============================  Fold
 Wednesday, February 8, 2023
 
-Done - 8.)  Series and Parallell Batteries and Circuit Analysis Teaser
+Done - 8.)  Series and Parallel Batteries and Circuit Analysis Teaser
 
 Done - 7.)  Understanding Current and Voltage - Part II
 
