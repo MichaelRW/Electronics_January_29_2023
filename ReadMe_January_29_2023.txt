@@ -1,5 +1,16 @@
 
 
+
+==============================  Fold
+Monday, February 27, 2023
+
+Done - 12.)  Ohm's Law Deep Dive and Basic Circuit Analysis - Part II
+Done - 11.)  Ohm's Law Deep Dive and Basic Circuit Analysis - Part I
+Done - 10.)  Ohm's Law and Just a "Bit" of Power
+
+eFold
+
+
 ==============================  Fold
 Monday, February 20, 2023
 
