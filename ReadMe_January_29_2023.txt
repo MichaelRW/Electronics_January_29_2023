@@ -2,6 +2,14 @@
 
 
 ==============================  Fold
+Sunday, March 5, 2023
+
+Done - 13.)  Deciphering Resistor Color Codes and Meet the Capacitor
+
+eFold
+
+
+==============================  Fold
 Monday, February 27, 2023
 
 Done - 12.)  Ohm's Law Deep Dive and Basic Circuit Analysis - Part II
