@@ -2,6 +2,14 @@
 
 
 ==============================  Fold
+Sunday, March 12, 2023
+
+Done - 14.)  Inductors:  Be Afraid... Very Afraid
+
+eFold
+
+
+==============================  Fold
 Sunday, March 5, 2023
 
 Done - 13.)  Deciphering Resistor Color Codes and Meet the Capacitor
