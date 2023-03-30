@@ -2,6 +2,16 @@
 
 
 ==============================  Fold
+Thursday, March 30, 2023
+
+Done - 16.)  Manipulating Current with Diodes
+
+Done - 15.)  Transformers - There's More to Inductors than Meets the Eye!
+
+eFold
+
+
+==============================  Fold
 Sunday, March 12, 2023
 
 Done - 14.)  Inductors:  Be Afraid... Very Afraid
