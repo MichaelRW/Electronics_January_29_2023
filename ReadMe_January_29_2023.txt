@@ -2,6 +2,16 @@
 
 
 ==============================  Fold
+Thursday, May 25, 2023
+
+Started - 18.)  Manipulating Current with Diodes, Part III
+
+Done - 17.)  Manipulating Current with Diodes, Part II
+
+eFold
+
+
+==============================  Fold
 Thursday, March 30, 2023
 
 Done - 16.)  Manipulating Current with Diodes
